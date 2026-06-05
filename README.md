@@ -84,15 +84,6 @@ Software engineer with experience building scalable, cloud-native backends and f
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Software Engineering GA | NYU ECE | Jun 2025 – May 2026 |
-| Software Engineering Intern | Toricent Labs | Jun 2025 – Aug 2025 |
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio](https://niharikabhasin.github.io/niharika-portfolio/)
