@@ -6,7 +6,7 @@
 
 MS in Computer Science, New York University (May 2026)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niharikabhasin.github.io/niharika-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://niharikabhasin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niharika-bhasin)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nb4048@nyu.edu)
 [![GitHub](https://img.shields.io/badge/Open_to_Work-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niharikabhasin)
